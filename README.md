@@ -57,7 +57,7 @@ I chose this project to explore how customer information and sales data can be t
     │   └── Project_Instructions.pdf
     │
     ├── notebooks/
-    │   └── Customer Sales data(9).ipynb
+    │   └── Customer Sales data.ipynb
     │
     ├── presentations/
     │   └── Customer_Sales_Data_Analysis_Seminar_Presentation_Revised.pptx
